@@ -1,4 +1,4 @@
-camel_case = input("camelCase: ")
+camel_case = input("Please enter a variable in camelCase: ")
 
 snake_case = ""
 
